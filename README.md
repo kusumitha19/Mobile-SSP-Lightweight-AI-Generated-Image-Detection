@@ -1,4 +1,4 @@
-# Mobile-SSP: Lightweight AI-Generated Image Detection
+# Mobile-SSP: Lightweight AI-Generated Image Detection Using Single Simple Patch and MobileNetV2
 
 ## Overview
 This project presents **Mobile-SSP**, a lightweight deep learning framework for detecting **AI-generated (synthetic) images**.  
